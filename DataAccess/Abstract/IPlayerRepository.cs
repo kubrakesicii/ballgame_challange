@@ -7,6 +7,5 @@ namespace DataAccess.Abstract
     {
         List<Player> CreatePlayerList(StartGameDto gameDto);
         List<Player> TurnPlayersOnce(List<Player> curPlayers, int startInd);
-        string GetPlayer(List<Player> players, int id);
     }
 }

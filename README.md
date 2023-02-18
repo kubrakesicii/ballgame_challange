@@ -6,6 +6,8 @@ C# .NET 6.0 ile oluşturulmuş bir Web Api projesidir.
 
 Çözümü başlatan asıl proje API projesidir. Diğer katmanlar 'Class Library' projesi olarak oluşturulmuştur. Böylece tek yerde yazılan kod birçok yerde modül şeklinde kullanılabilmektedir.
 
+Projeler içerisinde, web api template oluşturacak bazı klasörler var. Middlewares, Db extensions, Configurations gibi. Fakat şu anda kullanılmayan özellikler kapatıldı.
+
 ## Projeyi Çalıştırma
 
 ```python

@@ -10,7 +10,5 @@ namespace Entities.Concrete
     {
         public int Id { get; set; }
         public int IsTurn { get; set; }
-        public int HaveBall { get; set; }
-
     }
 }

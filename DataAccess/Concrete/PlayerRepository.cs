@@ -16,7 +16,6 @@ namespace DataAccess.Concrete
                 playerList.Add(new Player
                 {
                     Id = i + 1,
-                    HaveBall = 0,
                     IsTurn = 0
                 });
             }

@@ -10,7 +10,7 @@ C# .NET 6.0 ile oluşturulmuş bir Web Api projesidir.
 
 ```python
 # önce bu dosya yoluna gidilmelidir
-cd /API
+cd ./API/
 
 # komut ile calıstırılır
 dotnet run
